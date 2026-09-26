@@ -1,1 +1,572 @@
-{}
+{
+  "board": {
+    "3dviewports": [],
+    "ipc2581": {
+      "bom_rev": "",
+      "dist": "",
+      "distpn": "",
+      "internal_id": "",
+      "mfg": "",
+      "mpn": "",
+      "sch_revision": ""
+    },
+    "layer_pairs": [],
+    "layer_presets": [],
+    "viewports": []
+  },
+  "boards": [],
+  "component_class_settings": {
+    "assignments": [],
+    "meta": {
+      "version": 0
+    },
+    "sheet_component_classes": {
+      "enabled": false
+    }
+  },
+  "cvpcb": {
+    "equivalence_files": []
+  },
+  "erc": {
+    "erc_exclusions": [
+      [
+        "pin_not_connected|317500|1003300|820a17a1-ec87-44bb-86aa-b974ead79f06|00000000-0000-0000-0000-000000000000|/cecf7a34-57e9-4b2e-844a-38f1c801dda5|/cecf7a34-57e9-4b2e-844a-38f1c801dda5|",
+        ""
+      ],
+      [
+        "pin_not_connected|317500|1028700|79ec6386-9669-497e-8df2-c5740e414708|00000000-0000-0000-0000-000000000000|/cecf7a34-57e9-4b2e-844a-38f1c801dda5|/cecf7a34-57e9-4b2e-844a-38f1c801dda5|",
+        ""
+      ],
+      [
+        "pin_not_connected|317500|1054100|3dd8eff0-9199-4849-a70f-c4dc9a016bfd|00000000-0000-0000-0000-000000000000|/cecf7a34-57e9-4b2e-844a-38f1c801dda5|/cecf7a34-57e9-4b2e-844a-38f1c801dda5|",
+        ""
+      ],
+      [
+        "pin_not_connected|317500|1079500|cd9704d6-33a3-4046-8dba-dd884bf2f061|00000000-0000-0000-0000-000000000000|/cecf7a34-57e9-4b2e-844a-38f1c801dda5|/cecf7a34-57e9-4b2e-844a-38f1c801dda5|",
+        ""
+      ],
+      [
+        "pin_not_connected|317500|469900|b9c79d1e-14c1-4213-bf3a-5ea787403866|00000000-0000-0000-0000-000000000000|/cecf7a34-57e9-4b2e-844a-38f1c801dda5|/cecf7a34-57e9-4b2e-844a-38f1c801dda5|",
+        ""
+      ],
+      [
+        "pin_not_connected|317500|495300|257e147d-9070-4f4c-914b-69314daf9e6a|00000000-0000-0000-0000-000000000000|/cecf7a34-57e9-4b2e-844a-38f1c801dda5|/cecf7a34-57e9-4b2e-844a-38f1c801dda5|",
+        ""
+      ],
+      [
+        "pin_not_connected|317500|520700|63e69484-7dae-4fd3-9b12-2e99fb7a647f|00000000-0000-0000-0000-000000000000|/cecf7a34-57e9-4b2e-844a-38f1c801dda5|/cecf7a34-57e9-4b2e-844a-38f1c801dda5|",
+        ""
+      ],
+      [
+        "pin_not_connected|317500|546100|a5ab819e-eaa9-4e8c-ace5-166b919f1385|00000000-0000-0000-0000-000000000000|/cecf7a34-57e9-4b2e-844a-38f1c801dda5|/cecf7a34-57e9-4b2e-844a-38f1c801dda5|",
+        ""
+      ],
+      [
+        "pin_not_connected|317500|876300|d1b8377a-3ed3-469e-9c22-1797991389c3|00000000-0000-0000-0000-000000000000|/cecf7a34-57e9-4b2e-844a-38f1c801dda5|/cecf7a34-57e9-4b2e-844a-38f1c801dda5|",
+        ""
+      ],
+      [
+        "pin_not_connected|317500|952500|ab3cc7ac-dc54-45d3-8352-93453f46f856|00000000-0000-0000-0000-000000000000|/cecf7a34-57e9-4b2e-844a-38f1c801dda5|/cecf7a34-57e9-4b2e-844a-38f1c801dda5|",
+        ""
+      ],
+      [
+        "pin_not_connected|774700|1003300|590cda5b-67a9-4326-b5a2-5dd4ad420984|00000000-0000-0000-0000-000000000000|/cecf7a34-57e9-4b2e-844a-38f1c801dda5|/cecf7a34-57e9-4b2e-844a-38f1c801dda5|",
+        ""
+      ],
+      [
+        "pin_not_connected|774700|1028700|b694b0f8-14f7-4637-b2e0-9fd15cccb122|00000000-0000-0000-0000-000000000000|/cecf7a34-57e9-4b2e-844a-38f1c801dda5|/cecf7a34-57e9-4b2e-844a-38f1c801dda5|",
+        ""
+      ],
+      [
+        "pin_not_connected|774700|469900|e27de9c1-6bc6-4fee-a782-d7d38921a1f6|00000000-0000-0000-0000-000000000000|/cecf7a34-57e9-4b2e-844a-38f1c801dda5|/cecf7a34-57e9-4b2e-844a-38f1c801dda5|",
+        ""
+      ],
+      [
+        "pin_not_connected|774700|495300|22101cec-ff5d-46e9-8687-831e7ac09730|00000000-0000-0000-0000-000000000000|/cecf7a34-57e9-4b2e-844a-38f1c801dda5|/cecf7a34-57e9-4b2e-844a-38f1c801dda5|",
+        ""
+      ],
+      [
+        "pin_not_connected|774700|520700|b188f070-d418-48f1-aa3e-45f4a7a5fae9|00000000-0000-0000-0000-000000000000|/cecf7a34-57e9-4b2e-844a-38f1c801dda5|/cecf7a34-57e9-4b2e-844a-38f1c801dda5|",
+        ""
+      ],
+      [
+        "pin_not_connected|774700|546100|55cc7dca-7fd1-4942-90d5-f15ee53f5109|00000000-0000-0000-0000-000000000000|/cecf7a34-57e9-4b2e-844a-38f1c801dda5|/cecf7a34-57e9-4b2e-844a-38f1c801dda5|",
+        ""
+      ],
+      [
+        "pin_not_connected|774700|571500|ae9546cd-bd41-41e1-937d-b7e827be1955|00000000-0000-0000-0000-000000000000|/cecf7a34-57e9-4b2e-844a-38f1c801dda5|/cecf7a34-57e9-4b2e-844a-38f1c801dda5|",
+        ""
+      ],
+      [
+        "pin_not_connected|774700|596900|16fecc55-c819-48da-be31-6c991ff54ee7|00000000-0000-0000-0000-000000000000|/cecf7a34-57e9-4b2e-844a-38f1c801dda5|/cecf7a34-57e9-4b2e-844a-38f1c801dda5|",
+        ""
+      ],
+      [
+        "pin_not_connected|774700|622300|a624423f-43e3-4f75-817f-ed3d705d0122|00000000-0000-0000-0000-000000000000|/cecf7a34-57e9-4b2e-844a-38f1c801dda5|/cecf7a34-57e9-4b2e-844a-38f1c801dda5|",
+        ""
+      ],
+      [
+        "pin_not_connected|774700|647700|c896153e-aa3e-4243-a291-1e5d53063dab|00000000-0000-0000-0000-000000000000|/cecf7a34-57e9-4b2e-844a-38f1c801dda5|/cecf7a34-57e9-4b2e-844a-38f1c801dda5|",
+        ""
+      ],
+      [
+        "pin_not_connected|774700|673100|bfdee6b5-e2fb-4750-a592-08a2565bb26b|00000000-0000-0000-0000-000000000000|/cecf7a34-57e9-4b2e-844a-38f1c801dda5|/cecf7a34-57e9-4b2e-844a-38f1c801dda5|",
+        ""
+      ],
+      [
+        "pin_not_connected|774700|698500|92094381-f506-40e6-83db-f146e749ef31|00000000-0000-0000-0000-000000000000|/cecf7a34-57e9-4b2e-844a-38f1c801dda5|/cecf7a34-57e9-4b2e-844a-38f1c801dda5|",
+        ""
+      ],
+      [
+        "pin_not_connected|774700|723900|aa810799-652c-4dd8-b25e-433d4e5fa47a|00000000-0000-0000-0000-000000000000|/cecf7a34-57e9-4b2e-844a-38f1c801dda5|/cecf7a34-57e9-4b2e-844a-38f1c801dda5|",
+        ""
+      ],
+      [
+        "pin_not_connected|774700|749300|92dce228-0e5c-46ac-9088-5bf11f6358a5|00000000-0000-0000-0000-000000000000|/cecf7a34-57e9-4b2e-844a-38f1c801dda5|/cecf7a34-57e9-4b2e-844a-38f1c801dda5|",
+        ""
+      ],
+      [
+        "pin_not_connected|774700|774700|00865107-bbae-407a-950e-8bc9e5d84d7b|00000000-0000-0000-0000-000000000000|/cecf7a34-57e9-4b2e-844a-38f1c801dda5|/cecf7a34-57e9-4b2e-844a-38f1c801dda5|",
+        ""
+      ],
+      [
+        "pin_not_connected|774700|800100|490e6c2b-5faf-4287-9631-a5c20255b0b2|00000000-0000-0000-0000-000000000000|/cecf7a34-57e9-4b2e-844a-38f1c801dda5|/cecf7a34-57e9-4b2e-844a-38f1c801dda5|",
+        ""
+      ],
+      [
+        "pin_not_connected|774700|825500|3655cdbe-922a-41a4-b58b-b5cc14d1d993|00000000-0000-0000-0000-000000000000|/cecf7a34-57e9-4b2e-844a-38f1c801dda5|/cecf7a34-57e9-4b2e-844a-38f1c801dda5|",
+        ""
+      ],
+      [
+        "pin_not_connected|774700|850900|ac3312be-5da8-4695-b2c7-ff1fe1ec62be|00000000-0000-0000-0000-000000000000|/cecf7a34-57e9-4b2e-844a-38f1c801dda5|/cecf7a34-57e9-4b2e-844a-38f1c801dda5|",
+        ""
+      ],
+      [
+        "pin_not_connected|774700|876300|88b8502a-261e-4057-9741-c283c338b076|00000000-0000-0000-0000-000000000000|/cecf7a34-57e9-4b2e-844a-38f1c801dda5|/cecf7a34-57e9-4b2e-844a-38f1c801dda5|",
+        ""
+      ],
+      [
+        "pin_not_connected|774700|901700|24637744-e1cf-4dbb-9399-f249cec6441d|00000000-0000-0000-0000-000000000000|/cecf7a34-57e9-4b2e-844a-38f1c801dda5|/cecf7a34-57e9-4b2e-844a-38f1c801dda5|",
+        ""
+      ],
+      [
+        "pin_not_connected|774700|927100|4410a899-5ad7-44bf-8b76-265f46733163|00000000-0000-0000-0000-000000000000|/cecf7a34-57e9-4b2e-844a-38f1c801dda5|/cecf7a34-57e9-4b2e-844a-38f1c801dda5|",
+        ""
+      ],
+      [
+        "pin_not_connected|774700|952500|e2fa9e47-05fe-4f90-af77-ec19405780fb|00000000-0000-0000-0000-000000000000|/cecf7a34-57e9-4b2e-844a-38f1c801dda5|/cecf7a34-57e9-4b2e-844a-38f1c801dda5|",
+        ""
+      ],
+      [
+        "pin_not_connected|774700|977900|011bf301-6dbf-4b56-b425-7e7c8ce66962|00000000-0000-0000-0000-000000000000|/cecf7a34-57e9-4b2e-844a-38f1c801dda5|/cecf7a34-57e9-4b2e-844a-38f1c801dda5|",
+        ""
+      ],
+      [
+        "pin_not_driven|317500|1054100|3dd8eff0-9199-4849-a70f-c4dc9a016bfd|00000000-0000-0000-0000-000000000000|/cecf7a34-57e9-4b2e-844a-38f1c801dda5|/cecf7a34-57e9-4b2e-844a-38f1c801dda5|",
+        ""
+      ]
+    ],
+    "meta": {
+      "version": 0
+    },
+    "pin_map": [
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        2
+      ],
+      [
+        0,
+        2,
+        0,
+        1,
+        0,
+        0,
+        1,
+        0,
+        2,
+        2,
+        2,
+        2
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        1,
+        0,
+        1,
+        2
+      ],
+      [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        2,
+        1,
+        1,
+        2
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        2
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2
+      ],
+      [
+        1,
+        1,
+        1,
+        1,
+        1,
+        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2
+      ],
+      [
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        2
+      ],
+      [
+        0,
+        2,
+        1,
+        2,
+        0,
+        0,
+        1,
+        0,
+        2,
+        2,
+        2,
+        2
+      ],
+      [
+        0,
+        2,
+        0,
+        1,
+        0,
+        0,
+        1,
+        0,
+        2,
+        0,
+        0,
+        2
+      ],
+      [
+        0,
+        2,
+        1,
+        1,
+        0,
+        0,
+        1,
+        0,
+        2,
+        0,
+        0,
+        2
+      ],
+      [
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2
+      ]
+    ],
+    "rule_severities": {
+      "bus_definition_conflict": "error",
+      "bus_entry_needed": "error",
+      "bus_to_bus_conflict": "error",
+      "bus_to_net_conflict": "error",
+      "different_unit_footprint": "error",
+      "different_unit_net": "error",
+      "duplicate_reference": "error",
+      "duplicate_sheet_names": "error",
+      "endpoint_off_grid": "warning",
+      "extra_units": "error",
+      "field_name_whitespace": "warning",
+      "footprint_filter": "ignore",
+      "footprint_link_issues": "warning",
+      "four_way_junction": "ignore",
+      "ground_pin_not_ground": "warning",
+      "hier_label_mismatch": "error",
+      "isolated_pin_label": "warning",
+      "label_dangling": "error",
+      "label_multiple_wires": "warning",
+      "lib_symbol_issues": "warning",
+      "lib_symbol_mismatch": "warning",
+      "missing_bidi_pin": "warning",
+      "missing_input_pin": "warning",
+      "missing_power_pin": "error",
+      "missing_unit": "warning",
+      "multiple_net_names": "warning",
+      "net_not_bus_member": "warning",
+      "no_connect_connected": "warning",
+      "no_connect_dangling": "warning",
+      "pin_not_connected": "error",
+      "pin_not_driven": "error",
+      "pin_to_pin": "warning",
+      "power_pin_not_driven": "error",
+      "same_local_global_label": "warning",
+      "similar_label_and_power": "warning",
+      "similar_labels": "warning",
+      "similar_power": "warning",
+      "simulation_model_issue": "ignore",
+      "single_global_label": "ignore",
+      "stacked_pin_name": "warning",
+      "unannotated": "error",
+      "unconnected_wire_endpoint": "warning",
+      "undefined_netclass": "error",
+      "unit_value_mismatch": "error",
+      "unresolved_variable": "error",
+      "wire_dangling": "error"
+    }
+  },
+  "libraries": {
+    "pinned_footprint_libs": [],
+    "pinned_symbol_libs": []
+  },
+  "meta": {
+    "filename": "fuji-mini-v2.kicad_pro",
+    "version": 3
+  },
+  "net_settings": {
+    "classes": [
+      {
+        "bus_width": 12,
+        "clearance": 0.2,
+        "diff_pair_gap": 0.25,
+        "diff_pair_via_gap": 0.25,
+        "diff_pair_width": 0.2,
+        "line_style": 0,
+        "microvia_diameter": 0.3,
+        "microvia_drill": 0.1,
+        "name": "Default",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 2147483647,
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.2,
+        "tuning_profile": "",
+        "via_diameter": 0.6,
+        "via_drill": 0.3,
+        "wire_width": 6
+      }
+    ],
+    "meta": {
+      "version": 5
+    },
+    "net_colors": null,
+    "netclass_assignments": null,
+    "netclass_patterns": []
+  },
+  "pcbnew": {
+    "last_paths": {
+      "idf": "",
+      "netlist": "",
+      "plot": "",
+      "specctra_dsn": "",
+      "vrml": ""
+    },
+    "page_layout_descr_file": ""
+  },
+  "schematic": {
+    "annotate_start_num": 0,
+    "annotation": {
+      "method": 0,
+      "sort_order": 0
+    },
+    "bom_export_filename": "${PROJECTNAME}.csv",
+    "bom_fmt_presets": [],
+    "bom_fmt_settings": {
+      "field_delimiter": ",",
+      "keep_line_breaks": false,
+      "keep_tabs": false,
+      "name": "CSV",
+      "ref_delimiter": ",",
+      "ref_range_delimiter": "",
+      "string_delimiter": "\""
+    },
+    "bom_presets": [],
+    "bom_settings": {
+      "exclude_dnp": false,
+      "fields_ordered": [
+        {
+          "group_by": false,
+          "label": "Reference",
+          "name": "Reference",
+          "show": true
+        },
+        {
+          "group_by": false,
+          "label": "Qty",
+          "name": "${QUANTITY}",
+          "show": true
+        },
+        {
+          "group_by": true,
+          "label": "Value",
+          "name": "Value",
+          "show": true
+        },
+        {
+          "group_by": true,
+          "label": "DNP",
+          "name": "${DNP}",
+          "show": true
+        },
+        {
+          "group_by": true,
+          "label": "Exclude from BOM",
+          "name": "${EXCLUDE_FROM_BOM}",
+          "show": true
+        },
+        {
+          "group_by": true,
+          "label": "Exclude from Board",
+          "name": "${EXCLUDE_FROM_BOARD}",
+          "show": true
+        },
+        {
+          "group_by": true,
+          "label": "Footprint",
+          "name": "Footprint",
+          "show": true
+        },
+        {
+          "group_by": false,
+          "label": "Datasheet",
+          "name": "Datasheet",
+          "show": true
+        }
+      ],
+      "filter_string": "",
+      "group_symbols": true,
+      "include_excluded_from_bom": true,
+      "name": "Default Editing",
+      "sort_asc": true,
+      "sort_field": "Reference"
+    },
+    "bus_aliases": {},
+    "connection_grid_size": 50.0,
+    "drawing": {
+      "dashed_lines_dash_length_ratio": 12.0,
+      "dashed_lines_gap_length_ratio": 3.0,
+      "default_line_thickness": 6.0,
+      "default_text_size": 50.0,
+      "field_names": [],
+      "hop_over_size_choice": 0,
+      "intersheets_ref_own_page": false,
+      "intersheets_ref_prefix": "",
+      "intersheets_ref_short": false,
+      "intersheets_ref_show": false,
+      "intersheets_ref_suffix": "",
+      "junction_size_choice": 3,
+      "label_size_ratio": 0.375,
+      "operating_point_overlay_i_precision": 3,
+      "operating_point_overlay_i_range": "~A",
+      "operating_point_overlay_v_precision": 3,
+      "operating_point_overlay_v_range": "~V",
+      "overbar_offset_ratio": 1.23,
+      "pin_symbol_size": 25.0,
+      "text_offset_ratio": 0.15
+    },
+    "legacy_lib_dir": "",
+    "legacy_lib_list": [],
+    "meta": {
+      "version": 1
+    },
+    "page_layout_descr_file": "",
+    "plot_directory": "",
+    "reuse_designators": true,
+    "subpart_first_id": 65,
+    "subpart_id_separator": 0,
+    "top_level_sheets": [
+      {
+        "filename": "fuji-mini-v2.kicad_sch",
+        "name": "Root",
+        "uuid": "cecf7a34-57e9-4b2e-844a-38f1c801dda5"
+      }
+    ],
+    "used_designators": "U1-7,#FLG1-2,R1-21,J1-3,SW1-3,#PWR1-60,D1,C1-23,PLAY/PAUSE1,BT1,BCKWRD/FRWD1",
+    "variants": []
+  },
+  "sheets": [
+    [
+      "cecf7a34-57e9-4b2e-844a-38f1c801dda5",
+      "Root"
+    ]
+  ],
+  "text_variables": {},
+  "tuning_profiles": {
+    "meta": {
+      "version": 0
+    },
+    "tuning_profiles_impedance_geometric": []
+  }
+}
