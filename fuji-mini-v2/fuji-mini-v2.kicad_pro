@@ -661,7 +661,7 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "PCB/",
       "specctra_dsn": "",
       "vrml": ""
     },
