@@ -27,7 +27,7 @@
 | [Connector](https://www.digikey.hu/hu/products/detail/jst-sales-america-inc/S2B-PH-K-S/926626) | Battery connector | 1 | $0.12 | $0.12 | [Digikey](https://www.digikey.hu/hu/products/detail/jst-sales-america-inc/S2B-PH-K-S/926626) |
 | [220uF, 4.7uF](https://www.digikey.at/en/products/detail/murata-electronics/GRM21BZ71H475ME15K/13904866) | Resistors | 1 | $2.50 | $2.50 | [Digikey](https://www.digikey.at/en/products/detail/murata-electronics/GRM21BZ71H475ME15K/13904866) |
 | **Parts subtotal** | — | — | — | **$28.53** | — |
-| **Tax & shipping** | — | — | — | **$2.00** | — |
-| **Total** | — | — | — | **$30.53** | — |
+| **Tax & shipping** | — | — | — | **$1.00** | — |
+| **Total** | — | — | — | **$29.53** | — |
 
-**$0.53 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+$0.47 left of the tier's funding.
