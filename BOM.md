@@ -12,7 +12,6 @@
 
 | Part | What it's for | Qty | Unit | Total | Vendor |
 | --- | --- | --- | --- | --- | --- |
-| Battery_Cell | — | 1 | $0.00 | $0.00 | — |
 | [Micro_SD_Card](https://www.digikey.com/en/products/detail/hirose-electric-co-ltd/DM3AT-SF-PEJM5/2533565) | Micro SD card reader | 1 | $3.55 | $3.55 | [Digikey](https://www.digikey.com/en/products/detail/hirose-electric-co-ltd/DM3AT-SF-PEJM5/2533565) |
 | [AudioJack3_SwitchT](https://www.digikey.com/en/products/detail/same-sky-formerly-cui-devices/SJ1-3535NG/738699) | Jack port | 1 | $1.62 | $1.62 | [Digikey](https://www.digikey.com/en/products/detail/same-sky-formerly-cui-devices/SJ1-3535NG/738699) |
 | [USB_C_Receptacle_USB2.0_14P](https://www.digikey.hu/en/products/detail/gct/USB4085-GF-A/9859804) | USB-C | 1 | $0.89 | $0.89 | [Digikey](https://www.digikey.hu/en/products/detail/gct/USB4085-GF-A/9859804) |
