@@ -27,7 +27,7 @@
 | [All resistors](https://hqelektronika.hu/passziv-alkatreszek/ellenallasok/smd-ellenallasok/smd-10k-0805-0-125w-thick-film-0805-smd-ellenallas-10k-5?cid=47380&cikkszam=SMD+10K+0805) | Resistors | 1 | $1.08 | $1.08 | [Hqelektronika](https://hqelektronika.hu/passziv-alkatreszek/ellenallasok/smd-ellenallasok/smd-10k-0805-0-125w-thick-film-0805-smd-ellenallas-10k-5?cid=47380&cikkszam=SMD+10K+0805) |
 | [Connector](https://www.digikey.hu/hu/products/detail/jst-sales-america-inc/S2B-PH-K-S/926626) | Battery connector | 1 | $0.12 | $0.12 | [Digikey](https://www.digikey.hu/hu/products/detail/jst-sales-america-inc/S2B-PH-K-S/926626) |
 | **Parts subtotal** | — | — | — | **$26.03** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$26.03** | — |
+| **Tax & shipping** | — | — | — | **$4.00** | — |
+| **Total** | — | — | — | **$30.03** | — |
 
-$3.97 left of the tier's funding.
+**$0.03 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
