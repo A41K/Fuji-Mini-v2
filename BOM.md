@@ -12,7 +12,6 @@
 
 | Part | What it's for | Qty | Unit | Total | Vendor |
 | --- | --- | --- | --- | --- | --- |
-| Battery_Cell | — | 1 | $0.00 | $0.00 | — |
 | LED | — | 1 | $0.00 | $0.00 | — |
 | Micro_SD_Card | — | 1 | $0.00 | $0.00 | — |
 | AudioJack3_SwitchT | — | 1 | $0.00 | $0.00 | — |
