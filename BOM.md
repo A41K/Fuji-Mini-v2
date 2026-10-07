@@ -18,7 +18,6 @@
 | AudioJack3_SwitchT | — | 1 | $0.00 | $0.00 | — |
 | USB_C_Receptacle_USB2.0_14P | — | 1 | $0.00 | $0.00 | — |
 | [SW_Push](https://www.adafruit.com/product/367) | Buttons | 4 | $2.50 | $10.00 | [adafruit](https://www.adafruit.com/product/367) |
-| RotaryEncoder_Switch | — | 1 | $0.00 | $0.00 | — |
 | [ESP32-S3-WROOM-1](https://www.digikey.hu/en/products/detail/espressif-systems/ESP32-S3-WROOM-1-N4/16162639) | ESP-32 | 1 | $5.09 | $5.09 | [Digikey](https://www.digikey.hu/en/products/detail/espressif-systems/ESP32-S3-WROOM-1-N4/16162639) |
 | [PCM5102A](https://www.microcontroller.hu/termek/pcm5102a-i2s-dac-internet-radio-modul/) | Component | 1 | $4.56 | $4.56 | [microcontroller](https://www.microcontroller.hu/termek/pcm5102a-i2s-dac-internet-radio-modul/) |
 | [TPA6110A2DGN](https://eu.mouser.com/en/ProductDetail/Texas-Instruments/TPA6110A2DGN?qs=ojKcPFmCWSXEvp7P398E%2FQ%3D%3D) | Component | 1 | $1.81 | $1.81 | [MOUSER](https://eu.mouser.com/en/ProductDetail/Texas-Instruments/TPA6110A2DGN?qs=ojKcPFmCWSXEvp7P398E%2FQ%3D%3D) |
