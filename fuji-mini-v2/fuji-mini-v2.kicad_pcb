@@ -19622,7 +19622,7 @@
 		)
 	)
 	(gr_text "SCREEN"
-		(at 111.125 79.375 0)
+		(at 111.125 77.47 0)
 		(layer "F.SilkS")
 		(uuid "93d7848b-b28f-4cd7-88ad-36a3228e2648")
 		(effects
