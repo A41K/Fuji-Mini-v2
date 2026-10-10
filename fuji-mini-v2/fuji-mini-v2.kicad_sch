@@ -1345,129 +1345,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Connector:TestPoint"
-			(pin_numbers
-				(hide yes)
-			)
-			(pin_names
-				(offset 0.762)
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(in_pos_files yes)
-			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "TP"
-				(at 0 6.858 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "TestPoint"
-				(at 0 5.08 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 5.08 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Datasheet" ""
-				(at 5.08 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Description" "test point"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_keywords" "test point tp"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_fp_filters" "Pin* Test*"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(symbol "TestPoint_0_1"
-				(circle
-					(center 0 3.302)
-					(radius 0.762)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "TestPoint_1_1"
-				(pin passive line
-					(at 0 0 90)
-					(length 2.54)
-					(name "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "Connector:USB_C_Receptacle_USB2.0_14P"
 			(pin_names
 				(offset 1.016)
@@ -5664,12 +5541,6 @@
 		(uuid "f9f8c434-861e-4c59-b335-7b63dd6d1ef5")
 	)
 	(junction
-		(at 58.42 96.52)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "032b7c23-fda5-4fc2-b8a6-cb35115d03e3")
-	)
-	(junction
 		(at 43.18 45.72)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5688,22 +5559,10 @@
 		(uuid "0c3f00ae-31aa-40c4-bf28-66f270d47565")
 	)
 	(junction
-		(at 251.46 95.25)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "0cd8074a-20c5-42b7-a7bd-b01f8322eb45")
-	)
-	(junction
 		(at 261.62 33.02)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "171f13aa-67de-4c33-b760-5dd77cf3768f")
-	)
-	(junction
-		(at 140.97 27.94)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "305a8162-bc00-4ccc-ad13-0a7320846424")
 	)
 	(junction
 		(at 190.5 60.96)
@@ -5760,12 +5619,6 @@
 		(uuid "670a5518-d4b2-468f-885b-cf6ff344e13c")
 	)
 	(junction
-		(at 243.84 95.25)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "71fece69-9dc3-460f-a965-3befe5531deb")
-	)
-	(junction
 		(at 254 148.59)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5788,12 +5641,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a482cf49-2468-4bae-a76d-c9e46a42b24d")
-	)
-	(junction
-		(at 231.14 95.25)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "a7449bb4-ed1a-4d75-b6e7-d7bd7178df2f")
 	)
 	(junction
 		(at 191.77 34.29)
@@ -5856,12 +5703,6 @@
 		(uuid "d9366396-1c08-4655-b543-1bf263221040")
 	)
 	(junction
-		(at 261.62 53.34)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "db398dc9-4a05-4075-9ce4-62a63b544ed3")
-	)
-	(junction
 		(at 129.54 45.72)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5884,12 +5725,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ed8eb134-5cf5-4e8d-9c57-ed7ef400c4f1")
-	)
-	(junction
-		(at 261.62 30.48)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "f2474dfb-7438-4a88-8fe6-b9717471613b")
 	)
 	(no_connect
 		(at 191.77 106.68)
@@ -6011,7 +5846,7 @@
 	)
 	(wire
 		(pts
-			(xy 261.62 30.48) (xy 261.62 33.02)
+			(xy 261.62 29.21) (xy 261.62 33.02)
 		)
 		(stroke
 			(width 0)
@@ -6078,16 +5913,6 @@
 			(type default)
 		)
 		(uuid "23c0940a-c3ad-472e-9edf-730d87a952f9")
-	)
-	(wire
-		(pts
-			(xy 261.62 53.34) (xy 261.62 54.61)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "24266f18-c370-494a-8c45-03b47d0a829a")
 	)
 	(wire
 		(pts
@@ -6158,26 +5983,6 @@
 			(type default)
 		)
 		(uuid "2c44e9ba-771d-41aa-8367-6fba7367bc68")
-	)
-	(wire
-		(pts
-			(xy 261.62 29.21) (xy 261.62 30.48)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2cf147db-b043-4e3d-907e-3d75807f5f14")
-	)
-	(wire
-		(pts
-			(xy 143.51 27.94) (xy 140.97 27.94)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2d18d3ff-899c-4204-a11e-2dc1ba0c30f1")
 	)
 	(wire
 		(pts
@@ -6461,16 +6266,6 @@
 	)
 	(wire
 		(pts
-			(xy 62.23 97.79) (xy 58.42 96.52)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "57ac9437-8c61-44a4-bd4e-86bba9a722fe")
-	)
-	(wire
-		(pts
 			(xy 27.94 160.02) (xy 44.45 160.02)
 		)
 		(stroke
@@ -6541,7 +6336,7 @@
 	)
 	(wire
 		(pts
-			(xy 261.62 50.8) (xy 261.62 53.34)
+			(xy 261.62 50.8) (xy 261.62 54.61)
 		)
 		(stroke
 			(width 0)
@@ -6718,16 +6513,6 @@
 			(type default)
 		)
 		(uuid "861c361d-27ad-45f1-b214-ad7dbc83f44d")
-	)
-	(wire
-		(pts
-			(xy 260.35 30.48) (xy 261.62 30.48)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "86b0daaf-5ceb-4f56-8339-2e297c71ba77")
 	)
 	(wire
 		(pts
@@ -6941,16 +6726,6 @@
 	)
 	(wire
 		(pts
-			(xy 228.6 96.52) (xy 228.6 95.25)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a6d0a4fb-b432-4981-8e8a-f90c0a18514f")
-	)
-	(wire
-		(pts
 			(xy 261.62 63.5) (xy 261.62 62.23)
 		)
 		(stroke
@@ -6968,16 +6743,6 @@
 			(type default)
 		)
 		(uuid "a912c4c7-8253-4ccc-87a8-68844b060686")
-	)
-	(wire
-		(pts
-			(xy 254 95.25) (xy 251.46 95.25)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "aa11e98b-9c00-4b78-9e69-2ff9fbfecd41")
 	)
 	(wire
 		(pts
@@ -7148,26 +6913,6 @@
 			(type default)
 		)
 		(uuid "d049e43c-1404-49b1-ab29-331ac0100efe")
-	)
-	(wire
-		(pts
-			(xy 228.6 95.25) (xy 231.14 95.25)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d0eda2be-580d-495c-a129-df4a56639bb2")
-	)
-	(wire
-		(pts
-			(xy 238.76 114.3) (xy 243.84 95.25)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d16d6659-0f95-4dea-9aea-f58e3ce0933c")
 	)
 	(wire
 		(pts
@@ -8085,6 +7830,31 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+			)
+		)
+	)
+	(global_label "VBAT"
+		(shape input)
+		(at 241.3 153.67 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.1588)
+			)
+			(justify left)
+		)
+		(uuid "8f439c5b-cde8-478a-88ba-0851840ffb84")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 248.7 153.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 			)
 		)
 	)
@@ -10131,84 +9901,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector:TestPoint")
-		(at 254 95.25 270)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "35aad347-7d50-4fec-a805-0ed15a509c45")
-		(property "Reference" "TP6"
-			(at 253.492 97.0279 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "USB_DP"
-			(at 253.492 99.568 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 254 100.33 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 254 100.33 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "test point"
-			(at 254 95.25 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "e55dbe4f-8f6e-4fd7-8a05-29b097b993b2")
-		)
-		(instances
-			(project "fuji-mini-v2"
-				(path "/cecf7a34-57e9-4b2e-844a-38f1c801dda5"
-					(reference "TP6")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 137.16 182.88 0)
 		(unit 1)
@@ -10442,85 +10134,6 @@
 			(project "fuji-mini-v2"
 				(path "/cecf7a34-57e9-4b2e-844a-38f1c801dda5"
 					(reference "R22")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:TestPoint")
-		(at 261.62 53.34 270)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "405fb58c-80a5-47bc-af4d-9f13302df17a")
-		(property "Reference" "TP4"
-			(at 266.7 52.0699 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "VBAT"
-			(at 266.7 54.6099 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 261.62 58.42 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 261.62 58.42 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "test point"
-			(at 261.62 53.34 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "f3ea7750-5768-4404-bf2d-ddd86b858919")
-		)
-		(instances
-			(project "fuji-mini-v2"
-				(path "/cecf7a34-57e9-4b2e-844a-38f1c801dda5"
-					(reference "TP4")
 					(unit 1)
 				)
 			)
@@ -12684,82 +12297,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector:TestPoint")
-		(at 238.76 114.3 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "64ff2c31-651c-47ee-a198-088581f7f707")
-		(property "Reference" "TP7"
-			(at 236.728 116.332 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "USB_DN"
-			(at 236.728 118.872 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 238.76 109.22 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 238.76 109.22 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "test point"
-			(at 238.76 114.3 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "9c443bcb-8b81-4f65-a192-9ce4771ebb74")
-		)
-		(instances
-			(project "fuji-mini-v2"
-				(path "/cecf7a34-57e9-4b2e-844a-38f1c801dda5"
-					(reference "TP7")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Connector:USB_C_Receptacle_USB2.0_14P")
 		(at 246.38 110.49 90)
 		(unit 1)
@@ -12952,85 +12489,6 @@
 			(project "fuji-mini-v2"
 				(path "/cecf7a34-57e9-4b2e-844a-38f1c801dda5"
 					(reference "#PWR06")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:TestPoint")
-		(at 143.51 27.94 270)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "69cdee41-c7b9-4a11-b819-13e7f719e0cf")
-		(property "Reference" "TP2"
-			(at 148.59 26.6699 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "GND"
-			(at 148.59 29.2099 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 143.51 33.02 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 143.51 33.02 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "test point"
-			(at 143.51 27.94 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "daf9ab54-fc03-4dd1-b2cf-3efd60f89ec8")
-		)
-		(instances
-			(project "fuji-mini-v2"
-				(path "/cecf7a34-57e9-4b2e-844a-38f1c801dda5"
-					(reference "TP2")
 					(unit 1)
 				)
 			)
@@ -15321,85 +14779,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector:TestPoint")
-		(at 62.23 97.79 270)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "9b58a82a-d6a4-4ea0-af0b-2eb301985e11")
-		(property "Reference" "TP1"
-			(at 67.31 96.5199 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "GND"
-			(at 67.31 99.0599 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 62.23 102.87 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 62.23 102.87 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "test point"
-			(at 62.23 97.79 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "972a6e77-477a-4092-a64c-eadd43a5ed14")
-		)
-		(instances
-			(project "fuji-mini-v2"
-				(path "/cecf7a34-57e9-4b2e-844a-38f1c801dda5"
-					(reference "TP1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 132.08 182.88 0)
 		(unit 1)
@@ -15550,83 +14929,6 @@
 			(project "fuji-mini-v2"
 				(path "/cecf7a34-57e9-4b2e-844a-38f1c801dda5"
 					(reference "#PWR019")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:TestPoint")
-		(at 260.35 30.48 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "9f800ffc-e048-4c5b-acf9-aa262f79d887")
-		(property "Reference" "TP3"
-			(at 257.048 25.4 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "+3V3"
-			(at 257.048 27.94 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 260.35 25.4 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 260.35 25.4 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "test point"
-			(at 260.35 30.48 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "05b8086f-5b6a-442a-a4ee-3bbbbfc3a3b1")
-		)
-		(instances
-			(project "fuji-mini-v2"
-				(path "/cecf7a34-57e9-4b2e-844a-38f1c801dda5"
-					(reference "TP3")
 					(unit 1)
 				)
 			)
@@ -16337,85 +15639,6 @@
 			(project "fuji-mini-v2"
 				(path "/cecf7a34-57e9-4b2e-844a-38f1c801dda5"
 					(reference "#PWR010")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+3V3")
-		(at 241.3 153.67 270)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "bb26fe87-631a-4c85-99f8-ad7a66231f7c")
-		(property "Reference" "#PWR057"
-			(at 237.49 153.67 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "+3V3"
-			(at 245.11 153.6699 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 241.3 153.67 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 241.3 153.67 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 241.3 153.67 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "7c3c7088-2b92-4600-8018-709a916f3785")
-		)
-		(instances
-			(project "fuji-mini-v2"
-				(path "/cecf7a34-57e9-4b2e-844a-38f1c801dda5"
-					(reference "#PWR057")
 					(unit 1)
 				)
 			)
@@ -19629,83 +18852,6 @@
 			(project "fuji-mini-v2"
 				(path "/cecf7a34-57e9-4b2e-844a-38f1c801dda5"
 					(reference "#PWR023")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:TestPoint")
-		(at 228.6 96.52 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "fff7b84c-b599-40f1-a1f3-ef5737aac33d")
-		(property "Reference" "TP5"
-			(at 225.298 91.44 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "VDD"
-			(at 225.298 93.98 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 228.6 91.44 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 228.6 91.44 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "test point"
-			(at 228.6 96.52 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "f3d67a10-e922-4195-a93d-7dde15dfbb2e")
-		)
-		(instances
-			(project "fuji-mini-v2"
-				(path "/cecf7a34-57e9-4b2e-844a-38f1c801dda5"
-					(reference "TP5")
 					(unit 1)
 				)
 			)
