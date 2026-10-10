@@ -30,7 +30,6 @@
 | 1k | — | 1 | $0.00 | $0.00 | — |
 | 5.1k | — | 2 | $0.00 | $0.00 | — |
 | SW_Push | — | 4 | $0.00 | $0.00 | — |
-| RotaryEncoder_Switch | — | 1 | $0.00 | $0.00 | — |
 | [ESP32-S3-WROOM-1](https://www.hestore.hu/prod_10049392.html) | Microcontroller | 1 | $8.83 | $8.83 | [Hestore](https://www.hestore.hu/prod_10049392.html) |
 | PCM5102A | — | 1 | $0.00 | $0.00 | — |
 | TPA6110A2DGN | — | 1 | $0.00 | $0.00 | — |
