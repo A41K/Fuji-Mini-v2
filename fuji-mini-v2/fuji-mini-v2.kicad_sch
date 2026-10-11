@@ -13326,7 +13326,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_Audio:Jack_3.5mm_CUI_SJ1-3535NG_Horizontal"
+		(property "Footprint" "Connector_Audio:Jack_3.5mm_Lumberg_1503_02_Horizontal"
 			(at 186.69 99.06 0)
 			(hide yes)
 			(show_name no)
@@ -17581,7 +17581,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_Card:microSD_HC_Hirose_DM3AT-SF-PEJM5"
+		(property "Footprint" "Connector_Card:microSD_HC_Molex_47219-2001"
 			(at 96.52 152.4 0)
 			(hide yes)
 			(show_name no)
