@@ -34,7 +34,7 @@
 | [AP2112K-3.3](https://www.hestore.hu/prod_10047483.html) | Stabilizer | 1 | $0.41 | $0.41 | [hestore](https://www.hestore.hu/prod_10047483.html) |
 | [U262-161N-4BVC11](https://jlcpcb.com/partdetail/U262-161N-4BVC11/C319148) | USB-C Connector | 1 | $0.39 | $0.39 | [JLCPCB](https://jlcpcb.com/partdetail/U262-161N-4BVC11/C319148) |
 | **Parts subtotal** | — | — | — | **$27.71** | — |
-| **Tax & shipping** | — | — | — | **$3.00** | — |
-| **Total** | — | — | — | **$30.71** | — |
+| **Tax & shipping** | — | — | — | **$6.00** | — |
+| **Total** | — | — | — | **$33.71** | — |
 
-**$0.71 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+**$3.71 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
