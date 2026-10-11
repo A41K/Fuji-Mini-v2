@@ -18,7 +18,6 @@
 | [1uF](https://hqelektronika.hu/passziv-alkatreszek/kondenzatorok/smd-keramia-kondenzatorok/smdc-1-0u-0805-25-smd-kondenzator-25v-1uf-10-x7r?cid=75996&cikkszam=SMDC+1.0U+0805-25) | Capacitor | 5 | $0.04 | $0.20 | [HQelektronika](https://hqelektronika.hu/passziv-alkatreszek/kondenzatorok/smd-keramia-kondenzatorok/smdc-1-0u-0805-25-smd-kondenzator-25v-1uf-10-x7r?cid=75996&cikkszam=SMDC+1.0U+0805-25) |
 | [2.2uF](https://hqelektronika.hu/passziv-alkatreszek/kondenzatorok/smd-keramia-kondenzatorok/smdc-2-2u-0805-smd-kondenzator-25v-2-2uf-10-x7r?cid=47660&cikkszam=SMDC+2.2U+0805) | Capacitor | 5 | $0.05 | $0.25 | [HQelektronika](https://hqelektronika.hu/passziv-alkatreszek/kondenzatorok/smd-keramia-kondenzatorok/smdc-2-2u-0805-smd-kondenzator-25v-2-2uf-10-x7r?cid=47660&cikkszam=SMDC+2.2U+0805) |
 | 220uF | — | 2 | $0.00 | $0.00 | — |
-| 4.7uF | — | 1 | $0.00 | $0.00 | — |
 | Micro_SD_Card | — | 1 | $0.00 | $0.00 | — |
 | AudioJack3_SwitchT | — | 1 | $0.00 | $0.00 | — |
 | [10k](https://hqelektronika.hu/passziv-alkatreszek/ellenallasok/smd-ellenallasok/smd-10k-0805-1-0-125w-thick-film-0805-smd-ellenallas-10k-1) | Resistor | 15 | $0.02 | $0.30 | [HQelektronika](https://hqelektronika.hu/passziv-alkatreszek/ellenallasok/smd-ellenallasok/smd-10k-0805-1-0-125w-thick-film-0805-smd-ellenallas-10k-1) |
