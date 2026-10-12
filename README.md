@@ -4,6 +4,8 @@ A small handheld pocket sized DAP that has BT and Analog functions.
 
 Everything can be modified inside the /firmware/Firmware.ino file
 
+It features a 4 + 1 button setup with a built in AMP, Bluetooth, Analog (3'5 jack) and onboard battery management
+
 3D Render
 ![alt text](<Képernyőkép 2026-10-07 192913.png>)
 
